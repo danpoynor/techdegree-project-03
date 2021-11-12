@@ -14,7 +14,7 @@ Project completed as part of the Front End Web Development track at Treehouse. M
 
 ## Screenshot
 
-![ScreenShots](screenshots.png)
+![ScreenShots](https://user-images.githubusercontent.com/764270/141503614-6271c8de-4e5d-45db-bc42-430b50aac8ed.png)
 
 ## Technologies Used
 
